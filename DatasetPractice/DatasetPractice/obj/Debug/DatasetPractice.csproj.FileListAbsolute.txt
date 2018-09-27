@@ -1,0 +1,9 @@
+C:\Users\Cyberadmin\Desktop\c# practice\DatasetPractice\DatasetPractice\bin\Debug\DatasetPractice.exe.config
+C:\Users\Cyberadmin\Desktop\c# practice\DatasetPractice\DatasetPractice\bin\Debug\DatasetPractice.exe
+C:\Users\Cyberadmin\Desktop\c# practice\DatasetPractice\DatasetPractice\bin\Debug\DatasetPractice.pdb
+C:\Users\Cyberadmin\Desktop\c# practice\DatasetPractice\DatasetPractice\obj\Debug\DatasetPractice.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\c# practice\DatasetPractice\DatasetPractice\obj\Debug\DatasetPractice.Form1.resources
+C:\Users\Cyberadmin\Desktop\c# practice\DatasetPractice\DatasetPractice\obj\Debug\DatasetPractice.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\c# practice\DatasetPractice\DatasetPractice\obj\Debug\DatasetPractice.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\c# practice\DatasetPractice\DatasetPractice\obj\Debug\DatasetPractice.exe
+C:\Users\Cyberadmin\Desktop\c# practice\DatasetPractice\DatasetPractice\obj\Debug\DatasetPractice.pdb
